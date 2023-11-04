@@ -1,2 +1,2 @@
-# cornerstone-project
-Personal cornerstone project
+# capstone-project
+Personal capstone project
